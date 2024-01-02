@@ -29,8 +29,11 @@ int doUnion(int a[], int n, int b[], int m)  {
             st.insert(b[j]);
             j++;
         }
-        return st.size();     
+        return st.size();   
     }
+
+    // TC=O(m or n)
+    // SC=O(st.size())
 
 
 int main(){

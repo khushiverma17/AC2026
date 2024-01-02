@@ -23,6 +23,9 @@ int numIdenticalPairs(vector<int>& nums) {
         return ans;
     }
 
+    // TC=O(n)
+    // SC=O(mp.size())
+
 
 int main(){
     
