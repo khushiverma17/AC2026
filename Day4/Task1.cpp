@@ -2,7 +2,8 @@
 #include<string>
 #include<vector>
 using namespace std;
-
+// https://leetcode.com/problems/longest-common-prefix/
+// longest common prefix
 string longestCommonPrefix(vector<string>& strs) {
         
         string ans="";

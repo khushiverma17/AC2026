@@ -3,7 +3,8 @@ using namespace std;
 
 
 //logic is : there should be atleast 2 diff elements so that we can swap them and make a new palindromic string
-
+// https://codeforces.com/problemset/problem/1832/A
+// new palindrome
 bool check(string s)
 {
     int m=s.size()/2;
@@ -41,4 +42,3 @@ int main()
 
     }
 }
- 

@@ -1,6 +1,8 @@
 #include<iostream>
 #include<string>
 using namespace std;
+// https://codeforces.com/contest/1873/problem/A
+// short sort
 
 bool isPossible(string s)
 {

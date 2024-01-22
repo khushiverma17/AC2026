@@ -1,7 +1,8 @@
 #include<iostream>
 #include<string>
 using namespace std;
-
+// https://codeforces.com/contest/1829/problem/A\
+// love story
 int differ(string s,string comp)
 {
     int i=0;

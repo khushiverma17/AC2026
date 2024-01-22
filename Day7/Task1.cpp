@@ -1,5 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+// https://leetcode.com/problems/remove-outermost-parentheses/
+// remove outer parenthesis
 bool isMatching(char a,char b)
     {
         if(a=='(' && b==')')

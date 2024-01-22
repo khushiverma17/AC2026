@@ -1,0 +1,1 @@
+{"name":"Local: LogChopping","url":"c:\\AC Club POTDs\\LogChopping.cpp","tests":[{"id":1705154372444,"input":"2\n4\n2 4 2 1\n1\n1","output":"errorgorn\nmaomao90"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\AC Club POTDs\\LogChopping.cpp","group":"local","local":true}

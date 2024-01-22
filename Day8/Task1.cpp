@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+// https://codeforces.com/problemset/problem/1684/A
+// digit minimisation
 int smallest(int num)
 {
     
