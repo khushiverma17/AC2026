@@ -1,5 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+// https://leetcode.com/problems/fruit-into-baskets/description/
+// fruits into baskets
+
 int totalFruit(vector<int>& fruits) {
         int i=0;
         int ans=0;
